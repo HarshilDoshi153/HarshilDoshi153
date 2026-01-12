@@ -1,15 +1,14 @@
-# <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" />&nbsp;<b>Hi, I'm Pankil! Great to see you here!</b>
+# <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" />&nbsp;<b>Hi, I'm Harshil! Great to see you here!</b>
 
 ![Profile views](https://komarev.com/ghpvc/?username=harshildoshi153&style=flat-square&color=blue)
 <br>
 
-I am Harshil Doshi, currently pursuing my B.Tech in Computer Engineering from [Gandhinagar Institute of Technology](https://www.ddu.ac.in/). I am a tech enthusiast & have deep passion for web development. I am always open to collaborating on projects and innovative ideas. Find out more about me & feel free to connect with me here:
+I am Harshil Doshi, currently pursuing my B.Tech in Computer Engineering from [Gandhinagar Institute of Technology](https://gandhinagaruni.ac.in/). I am a tech enthusiast & have deep passion for web development. I am always open to collaborating on projects and innovative ideas. Find out more about me & feel free to connect with me here:
 <br>
 
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pankil19doshi@gmail.com)](mailto:pankil19doshi@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pankil-doshi-1705561a1/)](https://www.linkedin.com/in/pankil-doshi-1705561a1)
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harshildoshi153@gmail.com)](mailto:harshildoshi153@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshil-doshi-91134829a/)](https://www.linkedin.com/in/harshil-doshi-91134829a)
 [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/pankildoshi)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pankil_doshi/)](https://www.instagram.com/pankil_doshi/)
 
 ## 👨🏻‍💻 Coding Profiles
 
