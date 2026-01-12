@@ -1,26 +1,17 @@
 # <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" />&nbsp;<b>Hi, I'm Harshil! Great to see you here!</b>
 
-![Profile views](https://komarev.com/ghpvc/?username=harshildoshi153&style=flat-square&color=blue)
-<br>
-
 I am Harshil Doshi, currently pursuing my B.Tech in Computer Engineering from [Gandhinagar Institute of Technology](https://gandhinagaruni.ac.in/). I am a tech enthusiast & have deep passion for web development. I am always open to collaborating on projects and innovative ideas. Find out more about me & feel free to connect with me here:
 <br>
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harshildoshi153@gmail.com)](mailto:harshildoshi153@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshil-doshi-91134829a/)](https://www.linkedin.com/in/harshil-doshi-91134829a)
-[![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/pankildoshi)
-
-## 👨🏻‍💻 Coding Profiles
-
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/PankilDoshi/)
-[![GeeksForGeeks](https://img.shields.io/badge/-GeeksForGeeks-2EC866?style=for-the-badge&logo=GeeksForGeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/pankil19doshi)
+[![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/harshilwiz)
 
 ## ⚡ Technologies
 
 ### Language
-![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c#)
-![Java](https://img.shields.io/badge/-java-E34A86?style=for-the-badge&logo=java)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
