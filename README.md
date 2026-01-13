@@ -1,6 +1,6 @@
 # <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" />&nbsp;<b>Hi, I'm Harshil! Great to see you here!</b>
 
-I am Harshil Doshi, currently pursuing my B.Tech in Computer Engineering from [Gandhinagar Institute of Technology](https://gandhinagaruni.ac.in/). I am a tech enthusiast & have deep passion for web development. I am always open to collaborating on projects and innovative ideas. Find out more about me & feel free to connect with me here:
+I am Harshil Doshi, currently working at Ciencias In VR Pvt. Ltd., where I contribute to developing innovative and immersive technology solutions. I have completed my B.Tech in Computer Engineering from [Gandhinagar Institute of Technology](https://gandhinagaruni.ac.in/). I am a passionate tech enthusiast with a strong interest in web development and emerging technologies, always eager to learn, build, and explore new ideas. I enjoy collaborating on meaningful projects and innovative solutions, so feel free to connect with me to create something impactful together.
 <br>
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harshildoshi153@gmail.com)](mailto:harshildoshi153@gmail.com)
@@ -33,3 +33,7 @@ I am Harshil Doshi, currently pursuing my B.Tech in Computer Engineering from [G
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![WinSCP](https://img.shields.io/badge/WinSCP-00A95C?style=for-the-badge&logo=winscp&logoColor=white)
+![PuTTY](https://img.shields.io/badge/PuTTY-000000?style=for-the-badge&logo=putty&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+
