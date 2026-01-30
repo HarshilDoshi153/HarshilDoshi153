@@ -1,6 +1,8 @@
 # <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" />&nbsp;<b>Hi, I'm Harshil! Great to see you here!</b>
 
-I am Harshil Doshi, currently working at Ciencias In VR Pvt. Ltd., where I contribute to developing innovative and immersive technology solutions. I have completed my B.Tech in Computer Engineering from [Gandhinagar Institute of Technology](https://gandhinagaruni.ac.in/). I am a passionate tech enthusiast with a strong interest in web development and emerging technologies, always eager to learn, build, and explore new ideas. I enjoy collaborating on meaningful projects and innovative solutions, so feel free to connect with me to create something impactful together.
+A Computer Engineering graduate from [Gandhinagar Institute of Technology](https://gandhinagaruni.ac.in/), currently building immersive and innovative tech solutions at [Ciencias In VR Pvt. Ltd](https://cienciasvr.com/).
+
+I’m someone who genuinely enjoys turning ideas into real, working products—especially on the web. From experimenting with emerging technologies to refining clean, scalable solutions, I’m always curious about what’s next. I love collaborating with people who are excited about building meaningful things, so if you’ve got an idea worth exploring, let’s build something impactful together.
 <br>
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harshildoshi153@gmail.com)](mailto:harshildoshi153@gmail.com)
